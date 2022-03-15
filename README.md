@@ -1,6 +1,8 @@
-### Hi there 👋
+### Wassup, I'm Muffin. 
 
-I'm a Muf In A Box!E 
+I'm better known as AMufInABox or TRPrinceOfIce. 
+
+
 <!-- 
 **AMufInABox/amufinabox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
