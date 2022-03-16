@@ -12,7 +12,7 @@ Oh and I currently help manage...
  
 [Easter Boat](https://top.gg/bot/926910587122876456): An Economy bot with the Theme of Easter which allows you to collect Eggs!
 
-https://infinitybots.gg/bots/easter-boat/widget?size=large
+
 ill add more later
 <!-- 
 **AMufInABox/amufinabox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
