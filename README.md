@@ -9,8 +9,10 @@ Oh and I currently help manage...
 [Infinity Bot List](https://botlist.site): A Bot List with the hope of providing Discord Users with an "above average" Bot Listing and Advertising service
  
 [Easter Boat](https://top.gg/bot/926910587122876456): An Economy bot with the Theme of Easter which allows you to collect Eggs!
- thats pretty much it, heres a background. 
-<div align="center"><img src="https://media.discordapp.net/attachments/859473128957804584/953789852095246416/wallpaperbutblank.png"></div>
+
+ thats pretty much it, heres snake
+![github-user-contribution](https://user-images.githubusercontent.com/74741218/159734859-b840ee98-425f-421f-b990-bbffaeef87f8.svg)
+
 
 <!-- 
 **AMufInABox/amufinabox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
