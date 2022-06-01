@@ -8,7 +8,7 @@ Oh and I currently help manage...
 
 [Infinity Bot List](https://botlist.site): A Bot List with the hope of providing Discord Users with an "above average" Bot Listing and Advertising service
  
-[Def Good Developers Studios](https://github.com/DGD-Studio): Just your average developer studios.
+[DGD Studios](https://github.com/DGD-Studio): Just your average developer studios.
 
  thats pretty much it, heres snake
 ![github-user-contribution](https://user-images.githubusercontent.com/74741218/159734859-b840ee98-425f-421f-b990-bbffaeef87f8.svg)
