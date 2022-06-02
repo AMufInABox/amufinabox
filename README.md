@@ -10,6 +10,8 @@ Oh and I currently help manage...
  
 [DGD Studios](https://github.com/DGD-Studio): Just your average developer studios.
 
+[Mr Poll](https://top.gg/bot/730778862203437068): A fun bot but with lots of features like polls, suggestions, welcome module and tons more!
+
  thats pretty much it, heres snake
 ![github-user-contribution](https://user-images.githubusercontent.com/74741218/159734859-b840ee98-425f-421f-b990-bbffaeef87f8.svg)
 
