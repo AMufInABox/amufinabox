@@ -1,4 +1,4 @@
-### Wassup, I'm Muffin. He/Him 
+###Hey! I'm Muffin.! He/Him
 
 I'm better known as AMufInABox or TRPrinceOfIce. 
 
