@@ -1,9 +1,10 @@
-### Hey! I'm Muffin.! He/Him
+<h1 align="center">Hi there! I'm Muffin. He/Him 👋❤️</div>
+<div align="center"><img src="https://cdn.discordapp.com/attachments/859473128957804584/971893338259193886/Untitled15_20220505175654.png"></div>
 <hr />
-
 I'm also known as AMufInABox or TRPrinceOfIce on other platforms.
+Github Stats
 
-![Muffin.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=AMufInABox&count_private=true)
+![Muffin.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=AMufInABox&count_private=true&theme=algolia&show_icons=true)
 
 
 ### Listening to...
