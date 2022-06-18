@@ -4,6 +4,10 @@ I'm better known as AMufInABox or TRPrinceOfIce.
 
 ![Muffin.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=AMufInABox&count_private=true)
 
+
+### Listening to...
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8l2vs4ucvfoplne7313qmcave&cover_image=true&theme=novatorem&bar_color=7d13c3&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 Oh and I currently help manage...
 
 [Infinity Bot List](https://botlist.site): A Bot List with the hope of providing Discord Users with an "above average" Bot Listing and Advertising service
