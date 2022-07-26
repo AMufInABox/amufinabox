@@ -2,7 +2,7 @@
 
 
 I'm also known as AMufInABox or TRPrinceOfIce on other platforms.
-Github Stats
+<h1 align="center"> Github Stats
 
 ![Muffin.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=AMufInABox&count_private=true&theme=algolia&show_icons=true)
 
