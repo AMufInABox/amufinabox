@@ -1,6 +1,6 @@
-<h1 align="center">Hi there! I'm Muffin. He/Him 👋❤️</div>
-<div align="center"><img src="https://cdn.discordapp.com/attachments/859473128957804584/971893338259193886/Untitled15_20220505175654.png"></div>
-<hr />
+## Hi there! I'm Muffin. He/Him 👋❤️</div>
+
+
 I'm also known as AMufInABox or TRPrinceOfIce on other platforms.
 Github Stats
 
