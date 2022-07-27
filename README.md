@@ -1,4 +1,4 @@
-## Hi there! I'm Muffin. He/Him 👋❤️</div>
+## Hi there! I'm Muffin. He/Him 👋❤️</div> <img src="https://cdn.discordapp.com/emojis/1001708838573051924.gif?size=96&quality=lossless" height="35px"></h1>
 
 
 I'm also known as AMufInABox or TRPrinceOfIce on other platforms.
